@@ -4,9 +4,7 @@ This repository is a fork of https://github.com/123456abcdef/cr-sc-dump
 
 # Usage
 
-### WARNING
-### zstandart library is required to run this script
-### install it with 
+### WARNING: zstandart library is required to run this script. You can install it with 
 ```
 pip install zstandard
 ```
