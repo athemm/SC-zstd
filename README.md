@@ -1,5 +1,6 @@
 # SC-zstd
 Extracting _tex.sc files compressed with Zstandard
+<br>
 This repository is a fork of https://github.com/123456abcdef/cr-sc-dump
 
 # Usage
